@@ -59,3 +59,7 @@ All modules are fully mobile-responsive and optimized to run straight inside des
 
 *🌐 **Enterprise Mainframe Notice:** These free files serve as standalone local validation nodes. To activate continuous cloud scraping, autonomous 24/7 web scraping, and live block execution triggers on remote servers—secure your official mainframe access slot at: https://virgo-analytics.net*
 # virgo-core-suite
+### 👁️ [NODE 8] – VIRGO SHADOW EYE (`virgo_shadow_eye.py`)
+*   **Vector:** Private Alpha Channels & Insider Leak Interception.
+*   **Logic:** Mapped to simulate deep packet inspection crawls across encrypted Discord servers, whale accumulation rooms, and whale pump networks.
+*   **AI Engine:** Structures a multi-threaded chunk execution layer, forcing local Llama 3 threads to parse raw metadata and output exactly 4 classified insider leak comm-logs simultaneously. Includes an adjustable 'Confidence Sensitivity Slider' to filter out low-liquidity market noise.
