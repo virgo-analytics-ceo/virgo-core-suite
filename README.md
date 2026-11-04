@@ -27,11 +27,11 @@ To execute the militarized, hyper-fast CMD production suites built natively for 
 
 *   📦 **VIRGO CORE AUTOMATION SUITE (£29 / mo)**
     *   *Includes full production variants of: Proxy Rotator, Quantum Leap Mempool, Gas Optimizer (Mainnet), Airdrop Radar, Stock Flipper, Viper Calculator, Whale Sniper, and Pitch.*
-    *   👉 **Access Core Subscription here:** [https://gumroad.com
+    *   👉 **Access Core Subscription here:** https://gumroad.com/products/upwgtj/edit
 
 *   👑 **VIRGO ENTERPRISE SHIELD PRO (£42 / mo)**
     *   *Includes maximum infrastructure: Async Load Tester, Cloudflare Bypass Shield, Cyber Intel Guardian (AI), Neural Watchdog, News Sentiment AI, Toxic Contract Honeypot Decompiler, Shadow Eye Private Chat DPI Interceptor, Text Shield (Humanizer), and Wallet Forensics.*
-    *   👉 **Access Enterprise Subscription here:** [https://gumroad.com
+    *   👉 **Access Enterprise Subscription here:** https://gumroad.com/products/nozeqe/edit
 
 ---
 *Maintained by VIRGO MATRIX LTD (UK). For legal licensing compliance, all professional nodes require localized secure buffer authorization files.*
